@@ -8,4 +8,5 @@ Create tables (file ddl.sql)
 Configure /src/main/resources/application.properties
 
 > mnv package
+
 > java -jar listavip-0.0.1-SNAPSHOT.jar
